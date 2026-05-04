@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-05-01 11:17:29",
+  "update_time": "2026-05-04 11:45:17",
   "strategy": "鸭口选股 V3",
   "conditions": {
     "BOLL": "UB↑&MID↑&LB↓ 月12期/周26期/日22期内出现",
